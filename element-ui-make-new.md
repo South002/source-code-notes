@@ -1,7 +1,7 @@
 # Element UI 学习笔记
 
 ## 参考资料
-- [Element UI 源码解析](https://juejin.cn/post/7031331765482422280#heading-9)
+- [若川 | Element UI 源码解析](https://juejin.cn/post/7031331765482422280#heading-9)
 
 ## 新知识要点
 1. [Process 对象](https://javascript.ruanyifeng.com/nodejs/process.html#toc1)
